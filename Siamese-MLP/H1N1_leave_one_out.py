@@ -25,6 +25,8 @@ DIFF_SYMPTOMS = 0
 POSITIVE = 1
 NEGATIVE = 0
 is_suv = 2
+
+
 all_df = pd.read_csv("rma_H1N1_leave_"+sys.argv[1]+"_out.csv",sep='\t',encoding='utf-8')
 standar_df = pd.read_csv("H1N1_health_"+sys.argv[2]+".txt",sep='\t',encoding='utf-8')
 test_df = pd.read_csv("rma_H1N1_"+sys.argv[1]+".txt",sep='\t',encoding='utf-8')
