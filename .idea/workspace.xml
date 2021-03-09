@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1df98679-2f50-4856-9e7e-e652c30eb136" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Siamese-MLP/H1N1 new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Siamese-MLP/new_H1N1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Siamese-MLP/H1N1 leave_one_out.h5" beforeDir="false" afterPath="$PROJECT_DIR$/Siamese-MLP/H1N1 leave_one_out.h5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Siamese-MLP/H1N1 leave_one_out.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Siamese-MLP/H1N1 leave_one_out.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Siamese-MLP/H1N1_result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Siamese-MLP/H1N1_result.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Siamese-MLP/base_network.h5" beforeDir="false" afterPath="$PROJECT_DIR$/Siamese-MLP/base_network.h5" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +54,29 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.deepflu_4layer_t0">
+  <component name="RunManager" selected="Python.H1N1 new">
+    <configuration name="H1N1 new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IEEEproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Siamese-MLP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Siamese-MLP/H1N1 new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="H1N1_leave_one_out" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IEEEproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,6 +145,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.H1N1 new" />
         <item itemvalue="Python.deepflu_4layer_t0" />
         <item itemvalue="Python.H1N1_leave_one_out" />
       </list>
@@ -152,7 +180,12 @@
       <workItem from="1612928649176" duration="1520000" />
       <workItem from="1613468286370" duration="57000" />
       <workItem from="1613723465411" duration="591000" />
-      <workItem from="1613832810892" duration="2794000" />
+      <workItem from="1613832810892" duration="2946000" />
+      <workItem from="1614154870443" duration="551000" />
+      <workItem from="1615121621981" duration="699000" />
+      <workItem from="1615133745890" duration="2398000" />
+      <workItem from="1615298400870" duration="1331000" />
+      <workItem from="1615299911144" duration="3362000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1611942828489</created>
@@ -224,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613835270870</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add stuff">
+      <created>1613835638228</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1613835638229</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,7 +289,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="add stuff" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/IEEEproject$deepflu_4layer_t0.coverage" NAME="deepflu_4layer_t0 Coverage Results" MODIFIED="1612344304924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MLP-4layer" />
+    <SUITE FILE_PATH="coverage/IEEEproject$deepflu_4layer_t0.coverage" NAME="deepflu_4layer_t0 Coverage Results" MODIFIED="1615135694260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MLP-4layer" />
     <SUITE FILE_PATH="coverage/IEEEproject$H1N1_leave_one_out.coverage" NAME="H1N1_leave_one_out Coverage Results" MODIFIED="1611938742049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Siamese-MLP" />
   </component>
 </project>
