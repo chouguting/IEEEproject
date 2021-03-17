@@ -1,140 +1,28 @@
+siamese network 4 Layers
+====================
+
+
 Iteration:0
-TP:100
+TP:109
 TN:0
 FP:0
-FN:76
-* Accuracy on training set: 96.97%* Accuracy on validation set: 80.06%* Accuracy on test set: 56.82%======================================================
+FN:67
+* Accuracy on training set: 90.37%* Accuracy on validation set: 82.72%* Accuracy on test set: 61.93%
+======================================================
 
 Iteration:1
-TP:99
+TP:94
 TN:0
 FP:0
-FN:77
-* Accuracy on training set: 99.34%* Accuracy on validation set: 78.16%* Accuracy on test set: 56.25%======================================================
+FN:82
+* Accuracy on training set: 99.46%* Accuracy on validation set: 89.81%* Accuracy on test set: 53.41%
+======================================================
 
 Iteration:2
-TP:97
+TP:94
 TN:0
 FP:0
-FN:79
-* Accuracy on training set: 99.34%* Accuracy on validation set: 79.43%* Accuracy on test set: 55.11%======================================================
-
-Iteration:3
-TP:98
-TN:0
-FP:0
-FN:78
-* Accuracy on training set: 100.00%* Accuracy on validation set: 83.23%* Accuracy on test set: 55.68%======================================================
-
-Iteration:4
-TP:92
-TN:0
-FP:0
-FN:84
-* Accuracy on training set: 100.00%* Accuracy on validation set: 83.54%* Accuracy on test set: 52.27%======================================================
-
-Iteration:5
-TP:89
-TN:0
-FP:0
-FN:87
-* Accuracy on training set: 100.00%* Accuracy on validation set: 83.54%* Accuracy on test set: 50.57%======================================================
-
-Iteration:6
-TP:91
-TN:0
-FP:0
-FN:85
-* Accuracy on training set: 100.00%* Accuracy on validation set: 82.28%* Accuracy on test set: 51.70%======================================================
-
-Iteration:7
-TP:92
-TN:0
-FP:0
-FN:84
-* Accuracy on training set: 100.00%* Accuracy on validation set: 84.81%* Accuracy on test set: 52.27%======================================================
-
-Iteration:8
-TP:88
-TN:0
-FP:0
-FN:88
-* Accuracy on training set: 100.00%* Accuracy on validation set: 83.54%* Accuracy on test set: 50.00%======================================================
-
-Iteration:9
-TP:88
-TN:0
-FP:0
-FN:88
-* Accuracy on training set: 100.00%* Accuracy on validation set: 83.54%* Accuracy on test set: 50.00%======================================================
-
-Iteration:10
-TP:88
-TN:0
-FP:0
-FN:88
-* Accuracy on training set: 100.00%* Accuracy on validation set: 83.54%* Accuracy on test set: 50.00%======================================================
-
-Iteration:11
-TP:89
-TN:0
-FP:0
-FN:87
-* Accuracy on training set: 100.00%* Accuracy on validation set: 82.28%* Accuracy on test set: 50.57%======================================================
-
-Iteration:12
-TP:88
-TN:0
-FP:0
-FN:88
-* Accuracy on training set: 100.00%* Accuracy on validation set: 82.28%* Accuracy on test set: 50.00%======================================================
-
-Iteration:13
-TP:88
-TN:0
-FP:0
-FN:88
-* Accuracy on training set: 100.00%* Accuracy on validation set: 82.28%* Accuracy on test set: 50.00%======================================================
-
-Iteration:14
-TP:88
-TN:0
-FP:0
-FN:88
-* Accuracy on training set: 100.00%* Accuracy on validation set: 82.28%* Accuracy on test set: 50.00%======================================================
-
-Iteration:15
-TP:88
-TN:0
-FP:0
-FN:88
-* Accuracy on training set: 100.00%* Accuracy on validation set: 82.28%* Accuracy on test set: 50.00%======================================================
-
-Iteration:16
-TP:88
-TN:0
-FP:0
-FN:88
-* Accuracy on training set: 100.00%* Accuracy on validation set: 83.54%* Accuracy on test set: 50.00%======================================================
-
-Iteration:17
-TP:88
-TN:0
-FP:0
-FN:88
-* Accuracy on training set: 100.00%* Accuracy on validation set: 83.54%* Accuracy on test set: 50.00%======================================================
-
-Iteration:18
-TP:88
-TN:0
-FP:0
-FN:88
-* Accuracy on training set: 100.00%* Accuracy on validation set: 83.54%* Accuracy on test set: 50.00%======================================================
-
-Iteration:19
-TP:89
-TN:0
-FP:0
-FN:87
-* Accuracy on training set: 100.00%* Accuracy on validation set: 82.28%* Accuracy on test set: 50.57%======================================================
+FN:82
+* Accuracy on training set: 100.00%* Accuracy on validation set: 93.83%* Accuracy on test set: 53.41%
+======================================================
 

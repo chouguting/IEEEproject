@@ -1,0 +1,28 @@
+siamese network 5 Layers
+====================
+
+
+Iteration:0
+TP:107
+TN:0
+FP:0
+FN:69
+* Accuracy on training set: 82.23%* Accuracy on validation set: 71.95%* Accuracy on test set: 60.80%
+======================================================
+
+Iteration:1
+TP:97
+TN:0
+FP:0
+FN:79
+* Accuracy on training set: 97.18%* Accuracy on validation set: 79.88%* Accuracy on test set: 55.11%
+======================================================
+
+Iteration:2
+TP:90
+TN:0
+FP:0
+FN:86
+* Accuracy on training set: 97.90%* Accuracy on validation set: 81.71%* Accuracy on test set: 51.14%
+======================================================
+

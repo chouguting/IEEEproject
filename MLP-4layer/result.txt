@@ -1,2 +1,6 @@
-0	[1]	[1]	[0.6024097204208374]	[0.7943071722984314]
-0	[0]	[1]	[0.444192111492157]	[0.854400098323822]
+0	[0]	[0]	[0.017871597781777382]	[0.3469308614730835]
+iteration: 0accuracy: 0.5
+iteration: 1accuracy: 0.5
+iteration: 2accuracy: 0.0
+iteration: 3accuracy: 1.0
+iteration: 4accuracy: 1.0
