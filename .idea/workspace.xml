@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1df98679-2f50-4856-9e7e-e652c30eb136" name="Default Changelist" comment="">
+    <list default="true" id="1df98679-2f50-4856-9e7e-e652c30eb136" name="Default Changelist" comment="add stuff">
       <change afterPath="$PROJECT_DIR$/MLP-4layer/Deep Flu 5 Layer.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLP-4layer/DeepFlu5Layer.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLP-4layer/deepFlu4LayerResult.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLP-4layer/deepFlu5LayerResult.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/MLP-4layer/new deepFlu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLP-4layer/newDeepFluResult.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Siamese-MLP/new Net.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Siamese-MLP/new_H1N1.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Siamese-MLP/new_H1N1_result.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MLP-4layer/Deep Flu 4 Layer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MLP-4layer/Deep Flu 4 Layer.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MLP-4layer/DeepFlu4Layer.h5" beforeDir="false" afterPath="$PROJECT_DIR$/MLP-4layer/DeepFlu4Layer.h5" afterDir="false" />
@@ -232,6 +239,7 @@
       <workItem from="1615918948891" duration="1939000" />
       <workItem from="1615945360626" duration="648000" />
       <workItem from="1615969459089" duration="1154000" />
+      <workItem from="1615982167601" duration="303000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1611942828489</created>
@@ -317,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615304720286</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add stuff">
+      <created>1615982227530</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1615982227530</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
